@@ -79,10 +79,17 @@ footer {
     bottom: 0;
 }
 
+.carousel {
+    max-width: 700px;
+    margin-bottom: 3rem;
+    
+}
+
 .carousel-item img {
     width: 70vw;
     max-width: 700px;
     max-height: 34rem;
+    align-self: center;
 }
 
 .carousel-caption {
