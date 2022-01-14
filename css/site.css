@@ -80,6 +80,7 @@ footer {
 }
 
 .carousel {
+    max-height: 500px;
     max-width: 700px;
     margin-bottom: 3rem;
     
@@ -88,7 +89,7 @@ footer {
 .carousel-item img {
     width: 70vw;
     max-width: 700px;
-    max-height: 34rem;
+    max-height: 500px;
     align-self: center;
 }
 
