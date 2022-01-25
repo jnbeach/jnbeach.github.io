@@ -105,10 +105,22 @@ footer {
     animation-name: slidein;
 }
 
-#fbIcon img{
-    margin: 0px 7px 0px 20px;
-    height: 1.7rem;
+a {
+    color: #f8f9fa;
 }
+a:hover {
+    color: #660708;
+}
+
+#githubIcon img{
+    margin: 0px 9px 0px 20px;
+    height: 1.8rem;
+}
+
+/* #fbIcon img{
+    margin: 0px 7px 0px 9px;
+    height: 1.7rem;
+} */
 
 #liIcon img {
     margin: 0px 7px 0px 7px;
